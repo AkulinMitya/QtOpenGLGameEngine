@@ -1,0 +1,10 @@
+debug/entitybuilder.o
+debug/meshUtils.o
+debug/MyOpenGLWIdget.o
+debug/camera2d.o
+debug/main.o
+debug/mainwindow.o
+debug/point.o
+debug/scene.o
+debug/qrc_resources.o
+debug/moc_mainwindow.o

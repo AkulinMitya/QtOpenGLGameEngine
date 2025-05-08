@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>texture/background.jpg</file>
+        <file>texture/brick_wall.jpg</file>
+        <file>texture/enemy.png</file>
+        <file>texture/ally.png</file>
+        <file>texture/fort.png</file>
+    </qresource>
+</RCC>
