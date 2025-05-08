@@ -1,0 +1,25 @@
+# Qt / C++ build ignores
+build/
+*.pro.user
+*.user
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.pch
+*.log
+*.qmlc
+*.qrc.depends
+Makefile
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.autosave
+*.ipch
+*.sdf
+*.db
+*.cache
+.DS_Store
